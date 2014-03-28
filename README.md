@@ -30,7 +30,7 @@ angular.module('App', [])   // Officialy declares the App module. It would be at
                             // providers for 'a', 'b', and the run provider above would be called on the App
                             // module. Any calls from here on out will be called on the App module, and the
                             // placeholder will no longer be used. The official App module is returned.
-  .value('c', 'C')          // Creates a value, then returns the official module.
+  .value('c', 'C');         // Creates a value, then returns the official module.
 ```
 
 ## Installation
@@ -43,7 +43,7 @@ bower install angular-module
 
 ## Configuration
 
-None at the moement.
+None at the moment.
 
 ## Usage
 
