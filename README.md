@@ -49,4 +49,4 @@ None at the moment.
 
 ## Usage
 
-Just keep doin' whatcher doin'. If you installed it correctly
+Just keep doin' whatcher doin'. If installed correctly, it shouldn't be noticed.
