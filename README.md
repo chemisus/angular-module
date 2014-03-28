@@ -36,8 +36,10 @@ angular.module('App', [])   // Officialy declares the App module. It would be at
 ## Installation
 
 ```
+Via bower:
 bower install angular-module
 
+Place this after angular.js, and before your app files:
 <script src="bower_components/angular-module/angular-module.js"></script>
 ```
 
@@ -47,4 +49,4 @@ None at the moment.
 
 ## Usage
 
-Just keep doin' whatcher doin'.
+Just keep doin' whatcher doin'. If you installed it correctly
